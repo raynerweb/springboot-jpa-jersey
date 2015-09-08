@@ -4,7 +4,7 @@
 
   <groupId>br.com.raynerweb</groupId>
   <artifactId>springboot-jpa-jersey</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>maven-archetype</packaging>
 
   <name>springboot-jpa-jersey</name>

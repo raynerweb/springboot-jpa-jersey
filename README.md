@@ -1,9 +1,9 @@
 # springboot-jpa-jersey
-Archetype with SpringBoot, Spring JPA and Jersey. In development phase.
+Archetype with SpringBoot, Spring JPA and Jersey. 
 
-To use:
+Steps:
 
-git clone https://github.com/raynerweb/springboot-jpa-jersey.git
-
-mvn install
+- git clone https://github.com/raynerweb/springboot-jpa-jersey.git
+- cd springboot-jpa-jersey
+- mvn install
 
