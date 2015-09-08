@@ -1,1 +1,4 @@
 target/
+src/main/resources/archetype-resources/.classpath
+src/main/resources/archetype-resources/.project
+src/main/resources/archetype-resources/.settings/
