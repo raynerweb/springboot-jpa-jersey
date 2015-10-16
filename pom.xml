@@ -4,7 +4,7 @@
 
   <groupId>br.com.raynerweb</groupId>
   <artifactId>springboot-jpa-jersey</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <packaging>maven-archetype</packaging>
 
   <name>springboot-jpa-jersey</name>
@@ -30,7 +30,7 @@
 
   <description>Spring Boot Starter Parent</description>
 
-  <url>http://projects.spring.io/spring-boot/ponto-eletronico/</url>
+  <url>http://projects.spring.io/spring-boot/</url>
 
   <developers>
     <!--SPRING BOOT-->
@@ -68,6 +68,6 @@
   </licenses>
 
   <scm>
-    <url>https://github.com/spring-projects/spring-boot/spring-boot-starter-parent/ponto-eletronico</url>
+    <url>https://github.com/raynerweb/springboot-jpa-jersey</url>
   </scm>
 </project>
